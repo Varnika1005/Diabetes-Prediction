@@ -19,5 +19,5 @@ This project predicts whether a person is diabetic or not using the **Pima India
 - NumPy
 - scikit-learn
 
-📌 Project Goal
+## 📌 Project Goal
 This project demonstrates how machine learning can assist with the early detection of diabetes based on medical metrics like glucose, BMI, age, etc.
